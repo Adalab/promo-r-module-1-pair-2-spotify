@@ -1,0 +1,16 @@
+.logo{
+    width: 100px;
+    height: auto;
+    background-color: black;
+    text-align: left;
+}
+
+.navegador{
+    background-color: black;
+    color: white;
+    text-align: right;
+    border: black;
+}
+.menu-nav{
+    justify-content: space-between;
+}
