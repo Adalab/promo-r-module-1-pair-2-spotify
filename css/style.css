@@ -1,3 +1,10 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: right;
+    border: black;
+}
+
 .logo{
     width: 100px;
     height: auto;
@@ -5,12 +12,11 @@
     text-align: left;
 }
 
-.navegador{
-    background-color: black;
-    color: white;
-    text-align: right;
-    border: black;
-}
-.menu-nav{
-    justify-content: space-between;
+.listado {
+    list-style: none;
+    display:flex;
+    }
+
+.Item {
+    font-family: roboto;
 }
