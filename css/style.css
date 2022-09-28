@@ -15,8 +15,34 @@
 .listado {
     list-style: none;
     display:flex;
+    gap:10px;
     }
 
-.Item {
+.item {
     font-family: roboto;
+}
+
+.nav-items {
+    color: white;
+    text-decoration: none;
+}
+.Spain {
+    background-color: blue;
+}
+.legal {
+    list-style: none;
+    display:flex;
+    flex-wrap: wrap;
+    gap:10px;
+    color:black;
+
+}
+.cookies {
+    
+}
+footer {
+    background-color: black;
+}
+.banderita {
+    color:white
 }
