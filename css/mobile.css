@@ -5,8 +5,8 @@
     border: black;
 }
 
-.logo{
-    width: 100px;
+.logospoty{
+    width: 50px;
     height: auto;
     background-color: black;
     text-align: left;
@@ -14,9 +14,14 @@
 
 .listado {
     list-style: none;
-    display:flex;
+    display:none;
     gap:10px;
     }
+.icono {
+    display: flex;
+    justify-content: flex-end;
+}
+
 
 .item {
     font-family: roboto;
@@ -44,5 +49,5 @@ footer {
     background-color: black;
 }
 .banderita {
-    color:white
+    color:white;
 }
